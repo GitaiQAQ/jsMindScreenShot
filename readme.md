@@ -10,4 +10,4 @@
 
 命令行参数: node jsMindScreenShot -i ./jsMindScreenShot/test/test.md -o ./jsMindScreenShot/test/test.png 
 
-deps:phantomjs
+deps:phantomjs、jsMind
