@@ -5,8 +5,8 @@
 
 依赖项：
 
-phantomjs: http://phantomjs.org/
-jsMind   : https://github.com/hpf1908/jsMind
+1. phantomjs: http://phantomjs.org/
+2. jsMind   : https://github.com/hpf1908/jsMind
 
 使用方法：
 
