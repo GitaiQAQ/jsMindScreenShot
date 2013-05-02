@@ -1,0 +1,18 @@
+{
+  "name":        "jsMindScreenShot",
+  "version":     "0.0.1",
+  "description": "a jsMindMap image generator phantomjs",
+  "url":         "https://github.com/hpf1908/jsMindScreenShot",
+  "keywords":    ["mindMap", "jsMind"],
+  "author":      "hpf1908 <hpf1908@gmail.com>",
+  "directories": {"lib" : "./lib"},
+  "main":        "./lib/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hpf1908/jsMindScreenShot.git"
+  },
+  "dependencies": {
+    "line-reader": ">=0.2.3",
+    "commander"  : "*"
+  }
+}
